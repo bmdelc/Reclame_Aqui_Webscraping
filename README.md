@@ -22,6 +22,7 @@ When select an Organization, go to complaints, you can see the a list with 10 la
 Save all these complaints infos. Such as: url, title, description, date and tag (with the anwser status).
 Then I'll save all theses 10 complaints infos in a .csv or a .xslx file and then loop through the next page and on and on. 
 It will create a dataset with the main complain topic, if it has been anwsered or not, how long ago it has been made, the status and it's url.
+Get all these csv info and save into a .xlsx file to load into PartB
 
 Part B:
 Iterate over all URL gathered in part A to get every detail from the complain such as the location, tags, date, answers, and so on.
