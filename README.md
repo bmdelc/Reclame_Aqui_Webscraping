@@ -26,7 +26,7 @@ It will create a dataset with the main complain topic, if it has been anwsered o
 Part B:
 Iterate over all URL gathered in part A to get every detail from the complain such as the location, tags, date, answers, and so on.
 
-So, by the end, it'll create to datasets, one is the raw info and their url. The second one is the full info gathered. 
+So, by the end, it'll create two datasets, one is the raw info and their url. The second one is the full info gathered. 
 
 
 
