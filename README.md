@@ -1,6 +1,6 @@
 last use: march of 2023
 
-# Welcome to my first scrapes. Despite being simple, it worked like a charm. 
+# Welcome to my first scrape. Despite being simple, it worked like a charm. 
 
 https://www.reclameaqui.com.br/ 
 
