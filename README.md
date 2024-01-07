@@ -16,6 +16,7 @@ What I've found so far:
 Written in Python
 
 The main idea is to have to parts.
+
 Part A:
 When select an Organization, go to complaints, you can see the a list with 10 last complaints. 
 Save all these complaints infos. Such as: url, title, description, date and tag (with the anwser status).
